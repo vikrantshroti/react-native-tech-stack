@@ -14,7 +14,7 @@ This project was build using https://snack.expo.io
 - Run project
 
 ## Want to test this project?
-- Open expo app and tap explore then search - @vikrantshroti/YWxidW
+- Open expo app and tap explore then search - @vikrantshroti/tech_stack
 
 ## Screenshots
  <img src = screenshots/Screenshot_20181025-161917.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181025-161922.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181025-161928.png width="260" height="500" alt="SampleImage"/>
