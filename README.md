@@ -17,5 +17,5 @@ This project was build using https://snack.expo.io
 - Open expo app and tap explore then search - @vikrantshroti/tech_stack
 
 ## Screenshots
- <img src = screenshots/Screenshot_20181129-162557.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181129-162637.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181129-162620.png width="260" height="500" alt="SampleImage"/>
+ <img src = screenshots/Screenshot_20181129-162356.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181129-162403.png width="260" height="500" alt="SampleImage"/>  <img src = screenshots/Screenshot_20181129-162406.png width="260" height="500" alt="SampleImage"/>
 
